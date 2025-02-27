@@ -1,0 +1,19 @@
+Emotions:{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4363,
+    "features": 1
+  },
+  "language": "en",
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.170758,
+        "joy": 0.504486,
+        "fear": 0.120594,
+        "disgust": 0.022332,
+        "anger": 0.057012
+      }
+    }
+  }
+}

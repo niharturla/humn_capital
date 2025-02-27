@@ -1,0 +1,22 @@
+Categories:{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4363,
+    "features": 1
+  },
+  "language": "en",
+  "categories": [
+    {
+      "score": 0.789257,
+      "label": "/video gaming/video game genres/puzzle video games"
+    },
+    {
+      "score": 0.741567,
+      "label": "/video gaming/mobile games"
+    },
+    {
+      "score": 0.698241,
+      "label": "/family and relationships"
+    }
+  ]
+}

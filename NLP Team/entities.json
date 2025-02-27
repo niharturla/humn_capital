@@ -1,0 +1,21 @@
+Entities:{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4363,
+    "features": 1
+  },
+  "language": "en",
+  "entities": [
+    {
+      "type": "Time",
+      "text": "tonight",
+      "sentiment": {
+        "score": -0.658652,
+        "label": "negative"
+      },
+      "relevance": 0.954265,
+      "count": 2,
+      "confidence": 0.959657
+    }
+  ]
+}

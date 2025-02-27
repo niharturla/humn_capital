@@ -1,0 +1,340 @@
+Relations:{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4363,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "agentOf",
+      "sentence": "Um, what would you like to talk about today?",
+      "score": 0.743179,
+      "arguments": [
+        {
+          "text": "you",
+          "location": [
+            524,
+            527
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "your"
+            }
+          ]
+        },
+        {
+          "text": "talk",
+          "location": [
+            536,
+            540
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "talk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "timeOf",
+      "sentence": "Is there anything else you need my help with today or you want to talk about today?",
+      "score": 0.679507,
+      "arguments": [
+        {
+          "text": "today",
+          "location": [
+            4071,
+            4076
+          ],
+          "entities": [
+            {
+              "type": "Date",
+              "text": "today"
+            }
+          ]
+        },
+        {
+          "text": "talk",
+          "location": [
+            4060,
+            4064
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "talk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "timeOf",
+      "sentence": "Um, what would you like to talk about today?",
+      "score": 0.74933,
+      "arguments": [
+        {
+          "text": "today",
+          "location": [
+            547,
+            552
+          ],
+          "entities": [
+            {
+              "type": "Date",
+              "text": "today"
+            }
+          ]
+        },
+        {
+          "text": "talk",
+          "location": [
+            536,
+            540
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "talk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "partOfMany",
+      "sentence": "Um, what so tell me more, when you say they're not being read properly, can you give me an example?",
+      "score": 0.537166,
+      "arguments": [
+        {
+          "text": "Um",
+          "location": [
+            841,
+            843
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Um"
+            }
+          ]
+        },
+        {
+          "text": "they",
+          "location": [
+            880,
+            884
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "they"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "agentOf",
+      "sentence": "Um, what so tell me more, when you say they're not being read properly, can you give me an example?",
+      "score": 0.947842,
+      "arguments": [
+        {
+          "text": "you",
+          "location": [
+            872,
+            875
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "your"
+            }
+          ]
+        },
+        {
+          "text": "say",
+          "location": [
+            876,
+            879
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "say"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "agentOf",
+      "sentence": "Um, do you, you said you're not the creators of those packages, so you're not sure where to start.",
+      "score": 0.987998,
+      "arguments": [
+        {
+          "text": "you",
+          "location": [
+            1873,
+            1876
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "your"
+            }
+          ]
+        },
+        {
+          "text": "said",
+          "location": [
+            1877,
+            1881
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "agentOf",
+      "sentence": "Yeah, potentially reaching out to someone who develops those packages could work and asking their advice, or maybe trying to just pick a different framework and um, kind of taking a step back and finding a more efficient solution, I guess, to the problem.",
+      "score": 0.539273,
+      "arguments": [
+        {
+          "text": "who",
+          "location": [
+            2114,
+            2117
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "someone"
+            }
+          ]
+        },
+        {
+          "text": "asking",
+          "location": [
+            2157,
+            2163
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "asking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "affectedBy",
+      "sentence": "Yeah, potentially reaching out to someone who develops those packages could work and asking their advice, or maybe trying to just pick a different framework and um, kind of taking a step back and finding a more efficient solution, I guess, to the problem.",
+      "score": 0.576164,
+      "arguments": [
+        {
+          "text": "their",
+          "location": [
+            2164,
+            2169
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "their"
+            }
+          ]
+        },
+        {
+          "text": "asking",
+          "location": [
+            2157,
+            2163
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "asking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "partOfMany",
+      "sentence": "Um, not in my research I've done so far, um, but it's something we could look at going forward.",
+      "score": 0.855643,
+      "arguments": [
+        {
+          "text": "Um",
+          "location": [
+            2517,
+            2519
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Um"
+            }
+          ]
+        },
+        {
+          "text": "we",
+          "location": [
+            2581,
+            2583
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "their"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "agentOf",
+      "sentence": "Is there anything else you need my help with today or you want to talk about today?",
+      "score": 0.804811,
+      "arguments": [
+        {
+          "text": "you",
+          "location": [
+            4048,
+            4051
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "your"
+            }
+          ]
+        },
+        {
+          "text": "talk",
+          "location": [
+            4060,
+            4064
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "talk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

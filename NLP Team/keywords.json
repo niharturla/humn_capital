@@ -1,0 +1,43 @@
+Keywords:{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4363,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "little bit of an issue",
+      "sentiment": {
+        "score": 0.765071,
+        "label": "positive"
+      },
+      "relevance": 0.640707,
+      "emotion": {
+        "sadness": 0.183267,
+        "joy": 0.21164,
+        "fear": 0.045122,
+        "disgust": 0.014379,
+        "anger": 0.044122
+      },
+      "count": 1
+    },
+    {
+      "text": "Um",
+      "sentiment": {
+        "score": 0.527117,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.63012,
+      "emotion": {
+        "sadness": 0.184952,
+        "joy": 0.482374,
+        "fear": 0.104343,
+        "disgust": 0.025041,
+        "anger": 0.056013
+      },
+      "count": 24
+    }
+  ]
+}

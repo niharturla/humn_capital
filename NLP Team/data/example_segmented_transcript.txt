@@ -1,0 +1,55 @@
+All right, so hi good to see you. Hi, how are you doing? Good. - 2.240000009536743 - Manager: 1
+I so I can't believe it's February already and happy Friday. Do you have any fun plans this weekend? - 9.319999933242798 - Manager: 1
+Not really I'm hanging out with some friends tonight. I'll probably find something to do tomorrow. - 16.0 - Employee: 0
+Nice, that sounds fun. I hope you get a chance to relax. - 19.760000228881836 - Manager: 1
+I have two young children that keep me very busy and don't have a chance to go out with friends tonight. - 24.360000610351562 - Manager: 1
+So I am jealous and need to live vicariously through you. So fair enough. - 29.0 - Manager: 1
+What would you like to talk about today? - 32.640000343322754 - Manager: 1
+So we've been working on our computer vision component of the application and we've been having this issue. - 37.96000099182129 - Employee: 0
+Where when we're reading in the problem, we're registering numbers as letters and some certain components that we're reading in aren't being read in properly. - 45.28000068664551 - Employee: 0
+Okay. - 53.15999984741211 - Manager: 1
+So tell me more when you say they're not being read properly, can you give me an example? - 56.44000053405762 - Manager: 1
+Yeah, so if we're using the sudoku solver application, we are taking an image of that sudoku board and. - 63.7599983215332 - Employee: 0
+Occasionally a seven will get read in as a T or a Z you'll get read in as you know. - 71.31000137329102 - Employee: 0
+Something else or like a two will become a Z or things like that issues between numbers and letters. Is it being learned? - 77.47999954223633 - Employee: 0
+Interesting. - 82.51000213623047 - Manager: 1
+Do you know why that might be happening? What do you think? - 85.79999923706055 - Manager: 1
+I think it's likely because. - 89.07999801635742 - Employee: 0
+We the libraries we're using are OpenCV and PyTesseract AI which are two Python packages. - 94.28000259399414 - Employee: 0
+And OpenCV is primarily made for faces. So we went through and changed. - 101.15999984741211 - Employee: 0
+The data files and the C++ code to work with numbers. - 107.3599967956543 - Employee: 0
+But unfortunately, it doesn't seem like our work had worked out as well. - 111.63999938964844 - Employee: 0
+So we would need to figure out a better way of going in there and. - 115.71999740600586 - Employee: 0
+Fixing that but we're not the creators of those packages. So I'm not exactly sure where I would start on that. - 121.43999862670898 - Employee: 0
+Okay. - 125.63000106811523 - Manager: 1
+Interesting. - 127.30000305175781 - Manager: 1
+Do you. - 129.63999938964844 - Manager: 1
+You said you're not the creators of those packages so you're not sure where to start. - 133.2800064086914 - Manager: 1
+What do you think do you need to find the creator or do you have any other ideas of how to tackle the problem? - 139.9199981689453 - Manager: 1
+Yeah, potentially reaching out to someone who develops those packages could work and asking their advice. - 146.95999908447266 - Employee: 0
+Or maybe trying to just pick a different framework. - 151.81000518798828 - Employee: 0
+Kind of taking a step back and finding a more efficient solution, I guess to the problem. - 157.0800018310547 - Employee: 0
+Something that catered towards reading in numbers instead of something we're manually creating ourselves. - 162.1199951171875 - Employee: 0
+Mm-hmm. No, that's great. Have you found any other? - 166.16000366210938 - Manager: 1
+Potential framework so far? - 169.0800018310547 - Manager: 1
+Research I've done so far, but it's something we could look at going forward. Okay. - 175.1999969482422 - Employee: 0
+Well, I think those both sound like good options like reaching out to the creator or kind of researching other things. - 181.55999755859375 - Manager: 1
+Are you running into any roadblocks that I can help you with? - 186.04000091552734 - Manager: 1
+Outside of that we are having a little bit. - 190.27999877929688 - Employee: 0
+The team on board with how we want the front end to look so in terms of like design. - 198.04000091552734 - Employee: 0
+Or how you're going to use it whether you're like uploading a file or you can manually take a picture in the app. - 203.63999938964844 - Employee: 0
+Or like just kind of user flow. - 207.32000732421875 - Employee: 0
+Oh, okay. What do you think would be the best user experience? - 212.8499984741211 - Manager: 1
+I don't know probably something simple and easy. - 218.04000091552734 - Employee: 0
+If we're gearing it more towards a mobile application, I feel like it'd be better to take the picture within an app. - 222.4800033569336 - Employee: 0
+Or if we were to use like a framework that's multi-platform like React Native or something. - 228.24000549316406 - Employee: 0
+We could do it as a mobile app and a web app and then we can have multiple options. - 232.4000015258789 - Employee: 0
+But it is a little more time consuming and takes some more thought. - 236.5999984741211 - Employee: 0
+Okay. Well, I like the way that you're thinking about it. I think your logic is very sound, you know, there's pros and cons. - 241.68000030517578 - Manager: 1
+I like your thing you're focusing on the user, which is great. - 246.31999969482422 - Manager: 1
+And I like your thought of you know, if it's the most seamless to have a mobile app that's taking the photo. - 251.0 - Manager: 1
+I think let's start with that. That sounds really good. - 255.0399932861328 - Manager: 1
+Is there anything else you need my help with today or you want to talk about today? - 258.79998779296875 - Manager: 1
+I don't think so. I think that's everything I had. - 262.9599914550781 - Employee: 0
+All right. Awesome. Well, let me know if anything else pops up, but otherwise really great progress and I'm excited to see how it evolves. - 268.52000427246094 - Manager: 1
+All right. Thank you so much for your help. All right. Sounds good. Talk to you soon. Bye. - 274.1699981689453 - Employee: 0
